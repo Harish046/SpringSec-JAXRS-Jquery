@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Edit User</title>
 <script src="<c:url value='/resources/js/jquery-2.2.4.min.js' />"></script>
 <script type="text/javascript">
 
